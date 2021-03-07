@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>tarea 8</title>
+<h1><div id="encabezado">universidades</div></gh1>
+</head>
+<style type="text/css">
+#encabezado{background-color:red;font-famyli:arial;color:white;font-size:30pt;float:left;height:100px;width:100%;borde-width:2px;border-style:solid;}
+#contenido{float:right;width:600px;}
+#unis{background-color:orange;font-family:arial;color:black;font-
+size:20pt;float:left;height:390px;width:11%;padding-left:2%;border-width:3px;border-style:solid;}
+#itm{background-color:orange;font-family:arial;color:black;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:purple;}
+#uady{background-color:red;font-family:arial;color:black;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:purple;}
+#utm{background-color:orange;font-family:arial;color:black;font-size:12pt;text-aling:center;float:right;width:85%;
+height:105px;padding-top:25px;border-style:solid;border-width:1px 4px 1px 3px;borde-color:purple;}
+</style>
+<body bg color=blue>
+<div id="unis">
+<ol type="1">
+<pre><li><a href="https://www.itmerida.mx/">itm</a></li>
+<pre><li><a href="https://www.uady.mx/">uady</a></li>
+<pre><li><a href="http://www.utmetropolitana.edu.mx/index.html">utm</a></li>
+</ol></div></pre>
+<pre>
+<div id="itm">Es un Centro de desarrollo integrado y multidisciplinario para 
+promover a partir del diseño industrial, el arte y los Estudios en Ciencia, Tecnología y 
+Sociedad, la ejecución e implementación de proyectos de investigación aplicada y 
+desarrollo tecnológico, como elementos estratégicos de innovación, competitividad.</div>
+<div id="uady">La Universidad Autónoma de Yucatán (UADY) es una 
+institución pública y autónoma de educación superior que se encuentra localizada
+ principalmente en Mérida, Yucatán, México.</div>
+<div id="utm">La Universidad Tecnológica Metropolitana (UTM) es una institución
+ pública de educación superior ubicada al sur de la ciudad de Mérida, Yucatán (México) que 
+inició operaciones en el 14 de mayo de 1999. ... En el año 2021, La Universidad Tecnológica 
+Metropolitana imparte 8 carreras universitarias y 2 carreras cortas.</div>
+
